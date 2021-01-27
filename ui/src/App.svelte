@@ -18,7 +18,7 @@
     </div>
   </div>
 </header>
-<main class="App mw9 mw8-ns center pa3 ph5-ns lh-copy">
+<main class="App mw7 mw7-ns center pa3 ph5-ns lh-copy">
   <div class="flex items-center">
     <div class="flex-grow-1">
       <h2>A bit about me...</h2>
@@ -66,14 +66,14 @@
         <a href="https://procreate.art/ipad">ProCreate</a> for most of my drawings.
       </p>
 
-      <img src="967699855.jpeg" class="mw6"/>
-      <img src="3682124570.jpeg" class="mw6"/>
-      <img src="1752384821.jpeg" class="mw6"/>
+      <img src="967699855.jpeg" class="w-90"/>
+      <img src="3682124570.jpeg" class="w-90"/>
+      <img src="1752384821.jpeg" class="w-90"/>
 
       <h3>Photography</h3>
-      <img src="IMG_3353.jpeg" class="mw6"/>
-      <img src="75523252_496569940974383_109227630121356022_n.jpg" class="mw6"/>
-      <img src="83199138_1771318866338617_1986542429855547648_n.jpg" class="mw6"/>
+      <img src="IMG_3353.jpeg" class="w-90"/>
+      <img src="75523252_496569940974383_109227630121356022_n.jpg" class="w-90"/>
+      <img src="83199138_1771318866338617_1986542429855547648_n.jpg" class="w-90"/>
 
       <h3>Logos & User Interface Design</h3>
       <p>
@@ -82,22 +82,22 @@
         Patients can open this app and get reminders of important people in their lives,
         and other details they might forget.
       </p>
-      <img src="unknown-1.jpeg" class="mw6"/>
-      <img src="unknown.jpeg" class="mw6"/>
+      <img src="unknown-1.jpeg" class="w-90"/>
+      <img src="unknown.jpeg" class="w-90"/>
 
       <h3>Charcoal Drawings</h3>
       <p>
         Here are a few of my drawings I made in local drawing classes at
         <a href="https://artemisartsupplies.wixsite.com/artemis">Artemis Art Supplies</a> in Kincardine.
       </p>
-      <img src="IMG_2885.jpeg" class="mw6"/>
-      <img src="IMG_2881.jpeg" class="mw6"/>
-      <img src="IMG_2886.jpeg" class="mw6"/>
+      <img src="IMG_2885.jpeg" class="w-90"/>
+      <img src="IMG_2881.jpeg" class="w-90"/>
+      <img src="IMG_2886.jpeg" class="w-90"/>
       <p>
         Ok, not charcoal... and this is REALLY early mixed-media work.  Proof I have
         been an aspiring artist since I was *very* young!
       </p>
-      <img src="IMG_2882.jpeg" class="mw6"/>
+      <img src="IMG_2882.jpeg" class="w-90"/>
 
     </div>
   </div>
