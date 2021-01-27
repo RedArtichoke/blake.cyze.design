@@ -82,7 +82,7 @@
         Patients can open this app and get reminders of important people in their lives,
         and other details they might forget.
       </p>
-      <img src="unknown-1.jpeg" class="w-90"/>
+      <img src="unknown-1.png" class="w-90"/>
       <img src="unknown.jpeg" class="w-90"/>
 
       <h3>Charcoal Drawings</h3>
