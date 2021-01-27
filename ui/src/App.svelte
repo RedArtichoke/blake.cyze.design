@@ -90,8 +90,9 @@
         These drawings are getting a bit old now (I made them when I was 15), but
         hopefully they convey my interest in art from a young age.
       </p>
-      <img src="IMG_2884.jpeg" class="mw6"/>
+      <img src="IMG_2885.jpeg" class="mw6"/>
       <img src="IMG_2881.jpeg" class="mw6"/>
+      <img src="IMG_2886.jpeg" class="mw6"/>
       <p>
         Ok, not charcoal... and this is REALLY early mixed-media work.  Proof I have
         been an aspiring artist since I was *very* young!

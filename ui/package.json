@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@snowpack/plugin-svelte": "^3.4.1",
-    "snowpack": "next",
+    "snowpack": "^3.0.11",
     "svelte": "^3.31.1"
   },
   "dependencies": {
