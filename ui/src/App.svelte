@@ -93,12 +93,17 @@
       <img src="IMG_2885.jpeg" class="w-90"/>
       <img src="IMG_2881.jpeg" class="w-90"/>
       <img src="IMG_2886.jpeg" class="w-90"/>
-      <p>
-        Ok, not charcoal... and this is REALLY early mixed-media work.  Proof I have
-        been an aspiring artist since I was *very* young!
-      </p>
-      <img src="IMG_2882.jpeg" class="w-90"/>
 
+      <h3>Custom computer and keyboard builds</h3>
+      <p>
+        I have been building custom computers for friends and family for a few years now.  Over the past year
+        I have been building custom keyboards as well.  If you haven't typed on a mechanical keyboard
+        with Oreo switches and solid aluminum chassis, you are missing out!
+      </p>
+      <img src="IMG_0023.jpg" class="w-90"/>
+      <img src="IMG_0865.jpg" class="w-90"/>
+      <img src="IMG_2887.jpg" class="w-90"/>
+      <video loop autoplay class="w-90" src="IMG_0195.mov"></video>
     </div>
   </div>
 </main>
