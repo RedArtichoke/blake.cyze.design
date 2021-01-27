@@ -87,8 +87,8 @@
 
       <h3>Charcoal Drawings</h3>
       <p>
-        These drawings are getting a bit old now (I made them when I was 15), but
-        hopefully they convey my interest in art from a young age.
+        Here are a few of my drawings I made in local drawing classes at
+        <a href="https://artemisartsupplies.wixsite.com/artemis">Artemis Art Supplies</a> in Kincardine.
       </p>
       <img src="IMG_2885.jpeg" class="mw6"/>
       <img src="IMG_2881.jpeg" class="mw6"/>
