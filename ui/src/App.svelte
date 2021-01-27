@@ -103,7 +103,7 @@
       <img src="IMG_0023.jpg" class="w-90"/>
       <img src="IMG_0865.jpg" class="w-90"/>
       <img src="IMG_2887.jpg" class="w-90"/>
-      <video loop autoplay class="w-90" src="IMG_0195.mov"></video>
+      <video loop autoplay muted class="w-90" src="IMG_0195.mov"></video>
     </div>
   </div>
 </main>
