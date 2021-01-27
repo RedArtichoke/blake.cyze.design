@@ -45,7 +45,7 @@
       <h2>For presentations & prototyping...</h2>
       <p>
         I am at home using both PowerPoint and Keynote.  And I am completely
-        comfortable with MS Office and Pages.  Or drawing on a napkin.  Whatever it takes.
+        comfortable with MS Word and Pages.  Or drawing on a napkin.  Whatever it takes.
       </p>
       <h2>Programming...</h2>
       <p>
@@ -98,7 +98,7 @@
       <p>
         I have been building custom computers for friends and family for a few years now.  Over the past year
         I have been building custom keyboards as well.  If you haven't typed on a mechanical keyboard
-        with Oreo switches and solid aluminum chassis, you are missing out!
+        with Lavender switches and solid aluminum chassis, you are missing out!
       </p>
       <img src="IMG_0023.jpg" class="w-90"/>
       <img src="IMG_0865.jpg" class="w-90"/>
